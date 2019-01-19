@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/amos/Documents/GitHub/algorithm/main.cpp" "/Users/amos/Documents/GitHub/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/main.cpp.o"
+  "/Users/amos/Documents/GitHub/algorithm/Recurrence.cpp" "/Users/amos/Documents/GitHub/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/Recurrence.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

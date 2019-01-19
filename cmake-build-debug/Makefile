@@ -123,32 +123,32 @@ algorithm/fast:
 	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/build
 .PHONY : algorithm/fast
 
-main.o: main.cpp.o
+Recurrence.o: Recurrence.cpp.o
 
-.PHONY : main.o
+.PHONY : Recurrence.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/main.cpp.o
-.PHONY : main.cpp.o
+Recurrence.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/Recurrence.cpp.o
+.PHONY : Recurrence.cpp.o
 
-main.i: main.cpp.i
+Recurrence.i: Recurrence.cpp.i
 
-.PHONY : main.i
+.PHONY : Recurrence.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/main.cpp.i
-.PHONY : main.cpp.i
+Recurrence.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/Recurrence.cpp.i
+.PHONY : Recurrence.cpp.i
 
-main.s: main.cpp.s
+Recurrence.s: Recurrence.cpp.s
 
-.PHONY : main.s
+.PHONY : Recurrence.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/main.cpp.s
-.PHONY : main.cpp.s
+Recurrence.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/Recurrence.cpp.s
+.PHONY : Recurrence.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... algorithm"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Recurrence.o"
+	@echo "... Recurrence.i"
+	@echo "... Recurrence.s"
 .PHONY : help
 
 

@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/amos/Documents/GitHub/algorithm/main.cpp">
+		<Unit filename="/Users/amos/Documents/GitHub/algorithm/Recurrence.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/amos/Documents/GitHub/algorithm/CMakeLists.txt">

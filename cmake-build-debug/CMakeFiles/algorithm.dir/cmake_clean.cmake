@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm.dir/main.cpp.o"
+  "CMakeFiles/algorithm.dir/Recurrence.cpp.o"
   "algorithm.pdb"
   "algorithm"
 )
