@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a74b8e5c-49ff-45ec-850a-04d4643e0be5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q978.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q979.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q980.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Recurrence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/Recurrence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q979.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q979.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q979.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="q979.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/q979.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="23" selection-start-line="23" selection-end-line="42" selection-end-column="1" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
               <folding>
                 <element signature="e#98#99#0" expanded="true" />
                 <element signature="e#121#122#0" expanded="true" />
@@ -71,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q980.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="q980.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q980.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="293">
@@ -97,8 +94,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Recurrence.java" />
         <option value="$PROJECT_DIR$/src/q978.java" />
-        <option value="$PROJECT_DIR$/src/q979.java" />
         <option value="$PROJECT_DIR$/src/q980.java" />
+        <option value="$PROJECT_DIR$/src/q979.java" />
       </list>
     </option>
   </component>
@@ -108,7 +105,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="61" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -133,6 +130,12 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="q979.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -237,16 +240,15 @@
       <workItem from="1547887845903" duration="2146000" />
       <workItem from="1547969130283" duration="16000" />
       <workItem from="1547969176010" duration="139000" />
-      <workItem from="1547969409244" duration="7820000" />
+      <workItem from="1547969409244" duration="8040000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10121000" />
+    <option name="totallyTimeSpent" value="10341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="23" width="1440" height="799" extended-state="0" />
-    <editor active="true" />
+    <frame x="61" y="23" width="1440" height="799" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -331,21 +333,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/q979.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="23" selection-start-line="23" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/q980.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q979.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
