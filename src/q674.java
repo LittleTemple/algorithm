@@ -73,14 +73,7 @@ public class q674 {
         return max;
     }
 
-    Scanner in = new Scanner(System.in);
 
-    public void test(){
-        in.nextInt();
-        String str = in.nextLine();
-        str.split(" ");
-        HashMap<Integer,String[]> list = new HashMap<>();
-        list.
-    }
+
 
 }
