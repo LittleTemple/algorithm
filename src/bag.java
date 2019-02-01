@@ -1,3 +1,8 @@
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+
 /**
  * Author:   amos
  * Date:     2019/1/23 3:04 PM
@@ -18,7 +23,7 @@ public class bag {
             if(cw > maxW) maxW = cw; //这个是为了确保最后返回的一定是重量的最大值。
             return;
         }
-
+        HashSet<String> list = new HashSet<>();
         //这里是有两种尝试，一种是没有选择当前物品，所以没有对重量进行更新
         f(i+1,cw,items,n,w);
 
@@ -26,6 +31,7 @@ public class bag {
         if((items[i]+cw) <= w){
             f(i+1,cw+items[i],items,n,w);
         }
+
     }
 
 }
